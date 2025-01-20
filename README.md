@@ -1,4 +1,4 @@
-# Online Food Ordering and Delivery System
+# Food Ordering and Delivery Management System
 
 This project is a Spring Boot application designed for managing online food ordering, delivery, and food management by restaurants. It includes functionalities for searching restaurants, adding them to user favorites, managing cart items, and handling orders. The application uses a RESTful API to handle various operations related to restaurants, food items, user interactions, and order management.
 
